@@ -1,6 +1,7 @@
 в папке database лежит экспортированая база с phpmyadmin (прописаное название базы в коде: poligrds)
-в htdocs проэкт с xampp
 
+в htdocs проэкт с xampp
+-----------------------------------------
 ** РАБОЧИЕ ССЫЛКИ ДЛЯ ПРОВЕРКИ ПРОЕКТА **
 
 http://localhost/laravel/grds/public/admin/shop/categories
